@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.capitals-container {
+  background-color: #93c5fd;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+  width: 400px;
+}
+
+.heading {
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+
+.droplist {
+  display: flex;
+}
